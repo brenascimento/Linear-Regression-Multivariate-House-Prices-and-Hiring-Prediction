@@ -1,6 +1,6 @@
 # Linear Regression Multivariate: House Prices and Hiring Prediction
 
-<em>These datas and notebook is part of Linear Regression Multivariate: House Prices and Hiring Prediction by [Codebasics Youtube Channel ML Playlist](https://www.youtube.com/watch?v=J_LnPL3Qg70&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=3)</em>
+<em>These datas and notebook is part of Linear Regression Multivariate: House Prices and Hiring Prediction video by [Codebasics Youtube Channel ML Playlist](https://www.youtube.com/watch?v=J_LnPL3Qg70&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=3)</em>
 
 Sample problem of predicting home price in monroe, new jersey (USA)
 Below is the table containing home prices in monroe twp, NJ. Here price depends on area (square feet), bed rooms and age of the home (in years). Given these prices we have to predict prices of new homes based on area, bed rooms and age.
